@@ -69,7 +69,7 @@
     "safe-buffer": "5.1.2",
     "solidity-coverage": "^0.7.4",
     "solium": "^1.1.8",
-    "truffle": "5.0.34",
+    "truffle": "5.7.1",
     "web3": "^1.0.0-beta.33",
     "web3-eth-abi": "^1.0.0-beta.51",
     "truffle-contract-size": "^1.0.1"
